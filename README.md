@@ -1,1 +1,0 @@
-# react-redux-paid-pro-section-11-exercise-1
